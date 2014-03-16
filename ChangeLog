@@ -1,3 +1,9 @@
+QAntenna UNRELEASED:
+
+  [ Lisandro Damián Nicanor Pérez Meyer ]
+  * Change README to show a minimum dependency on Qt 5.
+
+
 QAntenna 0.3.0:
   [ Lisandro Damián Nicanor Pérez Meyer ]
   * Use -lGLU in src/src.pro to avoid FTBFS with binutils-gold.

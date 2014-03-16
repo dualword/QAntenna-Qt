@@ -24,6 +24,6 @@ decided to write QAntenna from scratch. The visualization would be created
 using OpenGL, the standard for multiplatform visualization programs.
 
 Dependencies:
-* Qt >= 4.2
+* Qt >= 5
 * Glut
 * necpp (nec2 if changed in datamanager.cpp)
